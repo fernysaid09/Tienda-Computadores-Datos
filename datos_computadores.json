@@ -2,4 +2,8 @@
   "meses" : [ "Noviembre.", "Diciembre." ],
   "marcas" : [ "Dell.", "Acer." ],
   "ventas" : [ [ 4000.0, 6000.0 ], [ 3000.0, 5000.0 ] ]
+}, {
+  "meses" : [ "Enero." ],
+  "marcas" : [ "Dell." ],
+  "ventas" : [ [ 5000.0 ] ]
 } ]
