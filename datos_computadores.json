@@ -1,5 +1,5 @@
 {
-  "meses" : [ "Enero." ],
-  "marcas" : [ "Asus.", "Lenovo." ],
-  "ventas" : [ [ 2000.0, 3000.0 ] ]
+  "meses" : [ "1." ],
+  "marcas" : [ "1." ],
+  "ventas" : [ [ 1.0 ] ]
 }
