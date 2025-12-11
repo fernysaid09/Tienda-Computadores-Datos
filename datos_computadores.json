@@ -14,4 +14,8 @@
   "meses" : [ "Mayo." ],
   "marcas" : [ "Apple.", "Asus.", "Lenovo." ],
   "ventas" : [ [ 5000.0, 4000.0, 8000.0 ] ]
+}, {
+  "meses" : [ "Junio.", "Julio." ],
+  "marcas" : [ "Msi.", "Acer." ],
+  "ventas" : [ [ 2000.0, 6000.0 ], [ 7000.0, 3000.0 ] ]
 } ]
